@@ -1,14 +1,35 @@
-#Tche Games Switch - SSR
+# Projeto TcheGamesSwitch - ReactJs SSR ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Mais um repositório do Projeto Tche Games Switch
+> **Breve descrição:**  
+> Projeto de estudo para entrega no RecodePro, utilizando ReactJS com Server Side Rendering (SSR).
 
-Esse projeto é parte do curso de desenvolvedor Full Stack da Recode Pro 2020.
+## 🚀 Tecnologias
 
-O objetivo nesse projeto foi:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-Utilizar o mesmo projeto, e modificar um módulo ou uma função do seu sistema para que funcione com SSR - Side Server Rendering. Use o comentário no código para explicar o que está renderizando do lado do servidor. => No caso foi realizada a refatoração da home (Menu, Página principal e Rodapé).
+## 📚 Observação
 
+Projeto entregue como parte do programa **RecodePro**.
 
-#Instruções de execução
+## ⚙️ Como executar
 
-Na pasta do projeto executar no terminal o comando: npm run dev
+Consulte as instruções no repositório para rodar a aplicação.
+
+## 📄 Status
+
+> ✅ Finalizado
+
+---
+
+<p align="center">
+  <a href="https://github.com/mdaniliauskas">
+    <img src="https://img.shields.io/badge/Portfólio%20GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Portfólio GitHub">
+  </a>
+  <a href="mailto:marcelo.daniliauskas@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/mdaniliauskas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
